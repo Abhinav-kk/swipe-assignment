@@ -109,7 +109,7 @@ const InvoiceList = () => {
                 <Link to="/create">
                   <Button variant="primary mb-2 mb-md-4">Create Invoice</Button>
                 </Link>
-                <Button variant="secondary mb-2 mb-md-4" onClick={handleBulkEdit}>Bulk Edit Invoice</Button>
+                <Button variant="secondary mb-2 mb-md-4" onClick={handleBulkEdit}>Bulk Edit</Button>
                 <div className="d-flex gap-2">
                   <Button variant="dark mb-2 mb-md-4" onClick={handleCopyClick}>
                     Copy Invoice
