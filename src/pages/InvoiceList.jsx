@@ -171,6 +171,7 @@ const InvoiceList = () => {
           </>
         ) : null}
       </div>
+      <h4 className="fw-bold pb-2 pb-md-4 text-center">Updated By Abhinav K.K</h4>
     </Row>
   );
 };
